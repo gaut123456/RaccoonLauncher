@@ -1,0 +1,46 @@
+{
+	"name": "raccoonlauncher",
+	"version": "1.0.0",
+	"main": "src/main/main.js",
+	"scripts": {
+		"start": "electron .",
+		"build": "electron-builder"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"description": "",
+	"dependencies": {
+		"@aws-sdk/client-s3": "^3.616.0",
+		"adm-zip": "^0.5.14",
+		"aws-sdk": "^2.1659.0",
+		"dotenv": "^16.4.5",
+		"minecraft-launcher-core": "^3.18.1",
+		"msmc": "^5.0.5"
+	},
+	"devDependencies": {
+		"electron": "^31.2.1",
+		"electron-builder": "^23.6.0",
+		"electron-packager": "^17.1.2"
+	},
+	"build": {
+		"appId": "com.yourdomain.raccoonlauncher",
+		"productName": "Raccoon Launcher",
+		"directories": {
+			"buildResources": "build"
+		},
+		"files": [
+			"src/**/*",
+			"package.json"
+		],
+		"mac": {
+			"target": "dmg"
+		},
+		"win": {
+			"target": "nsis"
+		},
+		"linux": {
+			"target": "AppImage"
+		}
+	}
+}
