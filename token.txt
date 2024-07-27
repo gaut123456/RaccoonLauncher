@@ -1,0 +1,50 @@
+token
+
+
+Minecraft {
+  mcToken: 'eyJraWQiOiJhYzg0YSIsImFsZyI6IkhTMjU2In0.eyJ4dWlkIjoiMjUzNTQxODYxNTI3MzMzOSIsImFnZyI6IkFkdWx0Iiwic3ViIjoiYjg4NGM2MzctNTE3Yi00NjgzLTliNzItNjU2NjE0OTkxYzdjIiwiYXV0aCI6IlhCT1giLCJucyI6ImRlZmF1bHQiLCJyb2xlcyI6W10sImlzcyI6ImF1dGhlbnRpY2F0aW9uIiwiZmxhZ3MiOlsidHdvZmFjdG9yYXV0aCIsIm1zYW1pZ3JhdGlvbl9zdGFnZTQiLCJvcmRlcnNfMjAyMiIsIm11bHRpcGxheWVyIl0sInByb2ZpbGVzIjp7Im1jIjoiYTViOTY2Y2ItZDcwMS00MjIwLTg1ZGUtZTRjMWQ1OWQ3Nzk2In0sInBsYXRmb3JtIjoiVU5LTk9XTiIsInl1aWQiOiI0ODNmMmMwZjkxNWM5ZWM0ZTUxZTgyM2RlNzc4ZGJiOSIsIm5iZiI6MTcyMTg2Mzg5MywiZXhwIjoxNzIxOTUwMjkzLCJpYXQiOjE3MjE4NjM4OTN9.23gSIhbSlZDERF_rzYSHboU6Cyb4f-1v5DMEmxTWwKY',
+  profile: {
+    id: 'a5b966cbd701422085dee4c1d59d7796',
+    name: 'ArcadeGamer_',
+    skins: [ [Object] ],
+    capes: [ [Object] ],
+    profileActions: {}
+  },
+  parent: Xbox {
+    parent: Auth {
+      _events: [Object: null prototype] {},
+      _eventsCount: 0,
+      _maxListeners: undefined,
+      token: [Object],
+      app: undefined,
+      [Symbol(shapeMode)]: false,
+      [Symbol(kCapture)]: false
+    },
+    msToken: {
+      token_type: 'bearer',
+      expires_in: 3600,
+      scope: 'XboxLive.signin',
+      access_token: 'EwAIA+pvBAAUKods63Ys1fGlwiccIFJ+qE1hANsAARYCk3iLnakBrHyjr15hUqdzykd9pt3TJxiv5sNjGn9XVwmQ1X5hp97LbXUXeFU3EkSBo1+uPLfKVQhtnYmysH5qD5PgJvjX7hdF0TBbRYX5Ax+jkmN491cfogvg4eRZeRZaGkXWsJhKeLI2W9M4Beeta+JYYUiJo0DHJK2z24s2TlFaukQ/fhBT0TR7OEbg7dBLAfmlGjTX9tYDw/qvhxcCmw8GJ+5MGHiRtkNVL8aqZGX/FsYP1E5Rz0/xQW3RvTut9Eo4iSzFwj4z/likGUSydrrzo1vsgggksnPhD2an4gtoMi0Fohn+QbMsRQPBuH+BBCRs7RfoEr74tzht7CUQZgAAEAcJx/VgGBNLMLdjxPlA3DbQAex+EMJBbH0Ro5lWb728SMnDrAYD2IXXDivB7uNYOmthrU/MYBA7QfVU2umfDRjy9evmVsklQG7enoVgEFi8+IfNURRejXTXPJxsJ57WtbMB+oGgKfmGzronbZnjqTL0x1PsAH6tGDY8ahenbJUbUxE8hmyq0r0NC/lBDjmTgAyRadkjkvAi8E/lgWzQFmdGTKEAtITa4SdwDFyLQmgMtMu0h+EFNRkZ19At/7YMztHXFUrAsDwoIR9M+CQzZOhVo9qg60Nrh8aZZU2PqVDQQqagMezhGI71Fzzs25T3/P2+b0/D8wZ0YTYWRGxRPDBKU1oNtab2cVETGmYADBPkIxBj22bFyb3pVPRyk/BzqeFAtis5lkdU/BI3EiU4chliKYJT2zlVOVKdBYlZ+oh6oZJTrcK9wqlqvcQ57yI7jqJnskXh76llCesC/0GLsSZqDpoNBmCbq0t+DAwoZeOGSseZ5EyeHI6Iug7NUu0/RkZyii85Y6NbLwlYIH3AhXuEjzRsptDezNutM5eoBkH1LmF4xxgccjiDh8uRVILvzKXPijZW1FLqrl6Zm/NjSNc4rwSvjQfsPuAte80IbTqOT9d5nJYszx0iIg6fv1phq+RcDQI=',
+      refresh_token: 'M.C509_BL2.0.U.-Cp0r9r92u1iMMhXOaKCSQqWvIszOTsn56EjNFTLLWRHPw0m4LdTjl0ibmBtj5tPBTQptGHwnV343u9zC9ni8oenfIkH!3PluImTi8AV8!axn9L2bCcryXI13ZQ8QYErQalP9diotNxPpZhEinlTiUxI56z2HWKlOvTzQt*RhkK1A*7gkp7hTD3A8vluD4erb7A4YnryXaRh8wqI2ojZLSeut09QA9NA4Oyrv8OuLHqPp791*U5kPUsKqJzCOjROmoUWm!rVdDtll91UsMBVn6fJ98kiGHG244Ri6ZQWrrFwT7n!Ez8I4GMcvdxviNwIPFC7c74v6cKJ6yHDt5YrLo90VYdJ*88pt*Fb!OJKUVifmAdDhXGg02WN0ATHuDx3JYg$$',
+      user_id: '7837e814544d5389e125cd67f2f4296b',
+      foci: '1'
+    },
+    xblToken: {
+      IssueInstant: '2024-07-24T23:31:32.4734763Z',
+      NotAfter: '2024-07-28T23:31:32.4734763Z',
+      Token: 'eyJhbGciOiJSU0EtT0FFUCIsImVuYyI6IkExMjhDQkMtSFMyNTYiLCJ6aXAiOiJERUYiLCJ4NXQiOiJxcEQtU2ZoOUg3NFFHOXlMN1hSZXJ5RmZvbk0iLCJjdHkiOiJKV1QifQ.j8VqP6nGRyTsKLTmOd0F4g-JF7wRHwgJ22z6o9I8Ot5D_KWYC3Xq8FWxMSx0WgoYqmzH0n-jNVsFGqwXK7DIpadhUcIxieYf2Y_FJBvSzqvlb5phaLKP7F2fJIgLo7ns7zt1qbaoT2gRsIXySCrwoL09ePtq4aYmS4GXxX1g1em30BV0V98Ij_EjMzeJw9cS7TZsUDRrGuAGPJjAGDSSLqFoAZquDbQkcBeAotqE4fvplda_Edq83_XSQx4IrOx6NyH18Nw3cfcJNMmDZRCGjkIbUTa0VKEOyCljU9QlrcRook10dO_l0Q_4qaCePXPPkff6ai_7AkS17-R2inYCaQ.mPmtc5A4XruCEta6eII20Q.IZuaf1wGlG74sA34zmmgGaTW5NVV5sxoknQRh6tIN48jeTxWVqqrwkMCty0X0xpTJ52h6dbn2HCXc0TLYBykHtTq-3f1aEs7ZlAFSGfPJ6Q6fHuFTQTRZUBcV15BtXObgTUWneUlUYsVhBYXLVMDQCqO0gwMDz8VmFdH1kZCgN1YeuxyGn8VQDbBr01h6CKQhwHkOJOhH4A309mXYL-0Zw3r5a9HKbA-XMQCu1PRHdpiuTtXvMYwhd9r8bu3-fCJ5cD0KjjJwbOKyKuidOjmia4O-i59dq7YH0xIUVEZVv7E_fX-AvaUk6x_pJJUeabzJ6BWHGdQLUC9ru7heH7XeUyW5UvBtJblYGq79dhHe_LxYDCSD5zmKhynC330NWsqW3EbxvAXJx-eAG5zFbQVHBRTC8Apz9M0bM7qwmD2t4NVqOxcjslvNPpdxs14vgi6oQq1FZbvCWQMnP2DN8HM0bOaSHj2FXEdCS2DOTcSjeiprWo7JvTpbPL68cPMX6MoNSreUI0Ru1VigIf1_Gfbvv7sHNTdUYYr7j6UhRCk_LCdtRM6Lsf-YiE2uyOR-nrQkAA1v7tXnpPl8tfgWhEp9dtlhUzlrqAKtF-vbHix85sUPz0bkTsfrM7LH8CJNAd-BukNKKZlfNt1lZuPox6lbnPxCXCUTXE7-8YkbsuKLGzgI28OPlc_3ZWPjhVy9C5RsHYbLhoZ6focm9WGyDyLlpqHw-5twiyP6L1G_KK4wB7pqAIoPnnu8Dhn7rvLWWGcV1CAybMmJAneJlL0C38efoxOo9IjkUWkXkqTXWoLXsi-Iill0RY3eYg32E5kA7o-P5bkSTc03442dD9nF_Yuw5LFSZNG_pgPL7aCgUA3BqOfgHoLqIA4bcLwSkyMm3WBFRGDuGx6MBJ0uBrhFDVOjINjh6CWNJYZgkBVgrdP1NdvzvsIcD2_nroN3R6DTAvY6EumZ3Yrc83mL0zVrJVe3w.3gTwv_sCGowuSZMnNmi1Qg',
+      DisplayClaims: [Object]
+    },
+    exp: 1721867491498
+  },
+  xuid: '2535418615273339',
+  exp: 1721946693748,
+  refreshTkn: undefined
+}
+
+
+
+token.mclc()
+
+
+
